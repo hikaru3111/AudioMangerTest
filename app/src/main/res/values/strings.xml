@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AudioManagerTest</string>
+    <string name="on">mannerOn</string>
+    <string name="off">mannerOff</string>
+    <string name="up">Volume up</string>
+    <string name="down">Volume down</string>
 </resources>
